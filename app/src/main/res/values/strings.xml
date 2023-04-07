@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Find Cat</string>
+    <string name="text_app_header">ПРИЛОЖЕНИЕ КОТ ШРЁДИНГЕРА</string>
+    <string name="text_coordinates">Отображение координат касания экрана</string>
+    <string name="text_find_cat">Вы нашли кота!</string>
+</resources>
